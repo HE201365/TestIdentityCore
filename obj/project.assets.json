@@ -8284,11 +8284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eminjan/Desktop/TestEFC/IdentityProject/IdentityProject.csproj",
+      "projectUniqueName": "/Users/eminjan/Desktop/TestEFC/TestIdentityCore/IdentityProject.csproj",
       "projectName": "IdentityProject",
-      "projectPath": "/Users/eminjan/Desktop/TestEFC/IdentityProject/IdentityProject.csproj",
+      "projectPath": "/Users/eminjan/Desktop/TestEFC/TestIdentityCore/IdentityProject.csproj",
       "packagesPath": "/Users/eminjan/.nuget/packages/",
-      "outputPath": "/Users/eminjan/Desktop/TestEFC/IdentityProject/obj/",
+      "outputPath": "/Users/eminjan/Desktop/TestEFC/TestIdentityCore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
